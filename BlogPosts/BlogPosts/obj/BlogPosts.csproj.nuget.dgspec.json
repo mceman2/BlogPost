@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mirza\\Desktop\\BlogPosts\\BlogPosts\\BlogPosts.csproj": {}
+    "C:\\Users\\Mirza\\Desktop\\BlogPost\\BlogPosts\\BlogPosts\\BlogPosts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mirza\\Desktop\\BlogPosts\\BlogPosts\\BlogPosts.csproj": {
+    "C:\\Users\\Mirza\\Desktop\\BlogPost\\BlogPosts\\BlogPosts\\BlogPosts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\BlogPosts\\BlogPosts\\BlogPosts.csproj",
+        "projectUniqueName": "C:\\Users\\Mirza\\Desktop\\BlogPost\\BlogPosts\\BlogPosts\\BlogPosts.csproj",
         "projectName": "BlogPosts",
-        "projectPath": "C:\\Users\\Mirza\\Desktop\\BlogPosts\\BlogPosts\\BlogPosts.csproj",
+        "projectPath": "C:\\Users\\Mirza\\Desktop\\BlogPost\\BlogPosts\\BlogPosts\\BlogPosts.csproj",
         "packagesPath": "C:\\Users\\Mirza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mirza\\Desktop\\BlogPosts\\BlogPosts\\obj\\",
+        "outputPath": "C:\\Users\\Mirza\\Desktop\\BlogPost\\BlogPosts\\BlogPosts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mirza\\AppData\\Roaming\\NuGet\\NuGet.Config",
